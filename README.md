@@ -5,6 +5,7 @@ Just download the html file and load into your ESP. All images are hosted so the
 
 
 Mobile:
+
 ![full-width](http://i.imgur.com/XoeCRWQ.png?1)
 
 Full Width:
